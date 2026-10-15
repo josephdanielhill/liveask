@@ -10,6 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 * proper semver cargo version usage (fe and be) [#133](https://github.com/liveask/liveask/pull/133)
 
+## [1.0.1](https://github.com/josephdanielhill/liveask/compare/v1.0.0...v1.0.1) (2026-10-15)
+
+
+### Bug Fixes
+
+* ok on after wrong password ([1bde22c](https://github.com/josephdanielhill/liveask/commit/1bde22c516b1e76c22133890d9f85cf9a5468426))
+
 ## [2.16.2] - 2026-07-10
 ## [2.16.1] - 2026-07-10
 
